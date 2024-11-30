@@ -4,23 +4,23 @@ namespace examForFirstModeul
     internal class Program
     {
         static void Main(string[] args)
-        {
+        {//1
             //Console.Write("Enter word : ");
             //var word = Console.ReadLine();
             //var result = LastFourDigits(word);
             //Console.WriteLine(result);
-
+            //2
             Console.Write("Enter length : ");
             var length = int.Parse(Console.ReadLine());
             var result = GetAndFillList(length);
             CountOddElements(result);
             Console.WriteLine(result);
-
+            //3
             //Console.Write("Enter word : ");
             //var word = Console.ReadLine();
             //var result = LastG10(word);
             //Console.WriteLine(result);
-
+            //4
             //Console.Write("Enter length : ");
             //var size = int.Parse(Console.ReadLine());
             //var result = GetAndFillListString(size);
