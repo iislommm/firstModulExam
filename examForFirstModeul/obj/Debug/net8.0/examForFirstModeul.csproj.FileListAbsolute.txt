@@ -1,0 +1,15 @@
+D:\project\firstModulExam\examForFirstModeul\bin\Debug\net8.0\examForFirstModeul.exe
+D:\project\firstModulExam\examForFirstModeul\bin\Debug\net8.0\examForFirstModeul.deps.json
+D:\project\firstModulExam\examForFirstModeul\bin\Debug\net8.0\examForFirstModeul.runtimeconfig.json
+D:\project\firstModulExam\examForFirstModeul\bin\Debug\net8.0\examForFirstModeul.dll
+D:\project\firstModulExam\examForFirstModeul\bin\Debug\net8.0\examForFirstModeul.pdb
+D:\project\firstModulExam\examForFirstModeul\obj\Debug\net8.0\examForFirstModeul.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\firstModulExam\examForFirstModeul\obj\Debug\net8.0\examForFirstModeul.AssemblyInfoInputs.cache
+D:\project\firstModulExam\examForFirstModeul\obj\Debug\net8.0\examForFirstModeul.AssemblyInfo.cs
+D:\project\firstModulExam\examForFirstModeul\obj\Debug\net8.0\examForFirstModeul.csproj.CoreCompileInputs.cache
+D:\project\firstModulExam\examForFirstModeul\obj\Debug\net8.0\examForFirstModeul.sourcelink.json
+D:\project\firstModulExam\examForFirstModeul\obj\Debug\net8.0\examForFirstModeul.dll
+D:\project\firstModulExam\examForFirstModeul\obj\Debug\net8.0\refint\examForFirstModeul.dll
+D:\project\firstModulExam\examForFirstModeul\obj\Debug\net8.0\examForFirstModeul.pdb
+D:\project\firstModulExam\examForFirstModeul\obj\Debug\net8.0\examForFirstModeul.genruntimeconfig.cache
+D:\project\firstModulExam\examForFirstModeul\obj\Debug\net8.0\ref\examForFirstModeul.dll
